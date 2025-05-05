@@ -1,4 +1,15 @@
-root {
-    
+body {
+   background-color: #ECEFCA; 
 }
 
+h1 ,h3{
+    color: #547792;
+}
+
+p {
+    color: #94B4C1;
+}
+
+image {
+    background-color: #213448;
+}
