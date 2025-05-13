@@ -6,8 +6,9 @@ h1 ,h3{
     color: #547792;
 }
 
-p {
+p ,li{
     color: #94B4C1;
+    font-size: 20px;
 }
 
 image {

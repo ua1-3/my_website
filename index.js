@@ -14,5 +14,5 @@ else if (hourNow >18) {
 else {
     greeting="حياك الله";
 }
-// A built-in function that writes the greeting on the webpage
-document.write(greeting);
+
+document.writeln(greeting);
